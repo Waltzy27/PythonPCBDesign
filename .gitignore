@@ -1,0 +1,5 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+CAM_Fabrication_Output/
